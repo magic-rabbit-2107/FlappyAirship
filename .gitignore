@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Builds
+Build/
+Builds/
+*.apk
+*.aab
+
+# Burst
+*_BurstDebugInformation_DoNotShip/
